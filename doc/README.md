@@ -4,15 +4,13 @@
 
 選單使用方向鍵和滑鼠點擊操控，同時提供大綱說明。
 
-![Menu1](image/screenshot102.png)
-
-![Menu2](image/screenshot103.png)
-
-![Menu3](image/screenshot104.png)
-
-![Menu4](image/screenshot105.png)
-
-![Menu4](image/screenshot106.png)
+| Info        | Demo                              |
+|-------------|-----------------------------------|
+| How to Play | ![Menu1](image/screenshot102.png) |
+| Story       | ![Menu2](image/screenshot103.png) |
+| Test Room   | ![Menu3](image/screenshot104.png) |
+| Achievement | ![Menu4](image/screenshot105.png) |
+| Options     | ![Menu4](image/screenshot106.png) |
 
 ### Tutorial Design ###
 
