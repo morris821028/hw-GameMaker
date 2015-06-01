@@ -33,7 +33,7 @@
 |-------------|--------------------------------------|
 | Tutorial    | ![Tutorial](image/screenshot101.png) |
 
-### Game UI Design ##
+### Game UI Design ###
 
 遊戲介面細節設計
 
