@@ -1,3 +1,15 @@
+## Animate ##
+
+| Info        | Demo                              |
+|-------------|-----------------------------------|
+| Menu Enter/Select| ![Menu](image/animate/menu.gif) |
+| Button Enter | ![Menu](image/animate/button.gif) |
+| Popup Menu | ![Menu](image/animate/popup.gif) |
+| Menu Focus | ![Menu](image/animate/focus.gif) |
+| Lighting | ![Menu](image/animate/lighting.gif) |
+| Fog | ![Menu](image/animate/fog.gif) |
+| Use Props | ![Menu](image/animate/props.gif) |
+
 ## Screenshot ##
 
 ### Menu Design ###
