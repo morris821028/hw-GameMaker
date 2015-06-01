@@ -9,6 +9,7 @@
 | Lighting | ![Menu](image/animate/lighting.gif) |
 | Fog | ![Menu](image/animate/fog.gif) |
 | Use Props | ![Menu](image/animate/props.gif) |
+| Caption |  ![Menu](image/animate/caption.gif) |
 
 ## Screenshot ##
 
