@@ -16,78 +16,59 @@
 
 使用教學關卡，步入遊戲元素與操作。
 
-![Tutorial](image/screenshot101.png)
+| Info        | Demo                                 |
+|-------------|--------------------------------------|
+| Tutorial    | ![Tutorial](image/screenshot101.png) |
 
 ### Game UI Design ##
 
-Tip 提示方案
+遊戲介面細節設計
 
-![Tip](image/screenshot107.png)
-
-遊戲操作介紹
-
-![Information](image/screenshot108.png)
-
-離開遊戲的錯誤防範提示
-
-![Information](image/screenshot109.png)
-
-遊戲要素展示
-
-![Letter](image/screenshot110.png)
-
-![Letter](image/screenshot111.png)
-
-過關/失敗畫面
-
-![Clear](image/screenshot114.png)
-
-![Fail](image/screenshot115.png)
+| Info        | Demo                              |
+|-------------|-----------------------------------|
+| Tip         | ![Tip](image/screenshot107.png)   |
+| Control Information | ![Information](image/screenshot108.png) |
+| Exit Warning | ![Information](image/screenshot109.png) |
+| Props View 1 (Scroll up)   | ![Letter](image/screenshot110.png) |
+| Props View 2 (Scroll down) | ![Letter](image/screenshot111.png) |
+| Level Complete | ![Clear](image/screenshot114.png) |
+| Level Fail | ![Fail](image/screenshot115.png)|
 
 ### Game Element ###
 
-隱藏效果
+遊戲元素效果
 
-![Hide](image/screenshot112.png)
-
-道具使用效果
-
-![Use](image/screenshot119.png)
-
-更多展示在 Test room，請自行下載遊戲嘗試。
-
-![Test](image/screenshot113.png)
+| Info        | Demo                              |
+|-------------|-----------------------------------|
+| Hide        | ![Hide](image/screenshot112.png)  |
+| Use         | ![Use](image/screenshot119.png)   |
+| Test Room   | ![Test](image/screenshot113.png)  |
 
 ### Option Design ###
 
-聲音配置
+遊戲配置設計
 
-![Sound](image/screenshot116.png)
-
-難度配置
-
-![Difficult](image/screenshot117.png)
+| Info        | Demo                              |
+|-------------|-----------------------------------|
+| Sound       | ![Sound](image/screenshot116.png) |
+| Difficult   | ![Difficult](image/screenshot117.png) |
 
 ### Story Design ###
 
 過場 (eyecatch) 劇情的介面設計
 
-![Story](image/screenshot118.png)
-
-支持劇情分支設計 (帶著某個道具完成關卡，即會進入另一個劇情)
-
-![Story](image/screenshot120.png)
-
-![Story branch](image/screenshot124.png)
+| Info        | Demo                              |
+|-------------|-----------------------------------|
+| Story       | ![Story](image/screenshot118.png) |
+| Story branch 1 | ![Story](image/screenshot120.png) |
+| Story branch 2 | ![Story branch](image/screenshot124.png) |
 
 ### Other Mode ###
 
-計時模式
+遊戲模式設計
 
-![Time](image/screenshot121.png)
-
-![Time](image/screenshot122.png)
-
-陷阱配置
-
-![Time](image/screenshot123.png)
+| Info        | Demo                              |
+|-------------|-----------------------------------|
+| Time Mode 1 (Time Count) | ![Time](image/screenshot121.png)  |
+| Time Mode 2 (Time Up) | ![Time](image/screenshot122.png)  |
+| Time Mode 3 (Time Over) | ![Time](image/screenshot123.png) |
