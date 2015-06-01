@@ -72,3 +72,55 @@
 | Time Mode 1 (Time Count) | ![Time](image/screenshot121.png)  |
 | Time Mode 2 (Time Up) | ![Time](image/screenshot122.png)  |
 | Time Mode 3 (Time Over) | ![Time](image/screenshot123.png) |
+
+## Feature ##
+
+考量的設計並沒全部去實作，提供設計參考。
+
+### Menu Layout ### 
+
+| Info        | Demo                              |
+|-------------|-----------------------------------|
+| Old 1 | ![Old 1](image/feature/file-page1.jpg) |
+| Old 2 | ![Old 2](image/feature/file-page7.jpg) |
+| X-Box | ![X-Box](image/feature/file-page2.jpg) |
+| Andriod | ![Android](image/feature/file-page3.jpg) |
+| Hexagon | ![Hexagon](image/feature/file-page4.jpg) |
+| Overview 1 | ![Overview 1](image/feature/file-page5.jpg) |
+| Overview 2 | ![Overview 2](image/feature/file-page6.jpg) |
+
+### Game Layout ###
+
+| Info        | Demo                              |
+|-------------|-----------------------------------|
+| Origin | ![Origin](image/feature/file-page8.jpg) |
+| Clear | ![Clear](image/feature/file-page9.jpg) |
+| Icon With props 1 | ![Icon](image/feature/file-page10.jpg) |
+| Icon With props 2 | ![Icon](image/feature/file-page11.jpg)  |
+| Exit Menu | ![Exit Menu](image/feature/file-page13.jpg)  |
+
+### Option Setting ###
+
+| Info        | Demo                              |
+|-------------|-----------------------------------|
+| Keyboard 1 | ![Keyboard 1](image/feature/file-page14.jpg) |
+| Keyboard 2 | ![Keyboard 2](image/feature/file-page15.jpg) |
+
+### Over Layout ###
+
+| Info        | Demo                              |
+|-------------|-----------------------------------|
+| Popup | ![popup](image/feature/file-page16.jpg) |
+
+### Game Flow ###
+
+| Info        | Demo                              |
+|-------------|-----------------------------------|
+| With Over | ![over](image/feature/file-page17.jpg) |
+| With Eyecatch | ![eyecatch](image/feature/file-page18.jpg) |
+
+### Game Caption ###
+
+| Info        | Demo                              |
+|-------------|-----------------------------------|
+| Balloon | ![balloon](image/feature/file-page19.jpg) |
